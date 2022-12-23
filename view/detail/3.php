@@ -1,0 +1,1 @@
+<img class="mt-4" src="assets/img/body/creative/<?php echo $new['img'] ?>" style="width:100%">
