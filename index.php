@@ -3,7 +3,7 @@
 include 'model/connect.php';
 include 'model/main.php';
 include 'model/user.php';
-// testing git
+// chơi thôi
 
 ?>
 
